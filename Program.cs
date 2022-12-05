@@ -9,6 +9,13 @@ namespace Condições_SwitchCase
 
     internal class Program
     {
+
+
+
+        /// <summary>
+        /// dfdfdfdfdfd
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {//A pessoa deve escolher uma das três opções disponíveis
         Console.WriteLine("Escolha uma das seguintes opções");
