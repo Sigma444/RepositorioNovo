@@ -1,0 +1,8 @@
+C:\Users\PC GAMER\Desktop\Ciclo FOR\Ciclo FOR\bin\Debug\Ciclo FOR.exe.config
+C:\Users\PC GAMER\Desktop\Ciclo FOR\Ciclo FOR\bin\Debug\Ciclo FOR.exe
+C:\Users\PC GAMER\Desktop\Ciclo FOR\Ciclo FOR\bin\Debug\Ciclo FOR.pdb
+C:\Users\PC GAMER\Desktop\Ciclo FOR\Ciclo FOR\obj\Debug\Ciclo FOR.csproj.AssemblyReference.cache
+C:\Users\PC GAMER\Desktop\Ciclo FOR\Ciclo FOR\obj\Debug\Ciclo FOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC GAMER\Desktop\Ciclo FOR\Ciclo FOR\obj\Debug\Ciclo FOR.csproj.CoreCompileInputs.cache
+C:\Users\PC GAMER\Desktop\Ciclo FOR\Ciclo FOR\obj\Debug\Ciclo FOR.exe
+C:\Users\PC GAMER\Desktop\Ciclo FOR\Ciclo FOR\obj\Debug\Ciclo FOR.pdb
