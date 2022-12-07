@@ -1,0 +1,8 @@
+C:\Users\PC GAMER\Desktop\CICLO WHILE\CICLO WHILE\bin\Debug\CICLO WHILE.exe.config
+C:\Users\PC GAMER\Desktop\CICLO WHILE\CICLO WHILE\bin\Debug\CICLO WHILE.exe
+C:\Users\PC GAMER\Desktop\CICLO WHILE\CICLO WHILE\bin\Debug\CICLO WHILE.pdb
+C:\Users\PC GAMER\Desktop\CICLO WHILE\CICLO WHILE\obj\Debug\CICLO WHILE.csproj.AssemblyReference.cache
+C:\Users\PC GAMER\Desktop\CICLO WHILE\CICLO WHILE\obj\Debug\CICLO WHILE.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC GAMER\Desktop\CICLO WHILE\CICLO WHILE\obj\Debug\CICLO WHILE.csproj.CoreCompileInputs.cache
+C:\Users\PC GAMER\Desktop\CICLO WHILE\CICLO WHILE\obj\Debug\CICLO WHILE.exe
+C:\Users\PC GAMER\Desktop\CICLO WHILE\CICLO WHILE\obj\Debug\CICLO WHILE.pdb
