@@ -1,0 +1,8 @@
+C:\Users\PC GAMER\Desktop\Exercícios parte 2\Exercícios parte 2\bin\Debug\Exercícios parte 2.exe.config
+C:\Users\PC GAMER\Desktop\Exercícios parte 2\Exercícios parte 2\bin\Debug\Exercícios parte 2.exe
+C:\Users\PC GAMER\Desktop\Exercícios parte 2\Exercícios parte 2\bin\Debug\Exercícios parte 2.pdb
+C:\Users\PC GAMER\Desktop\Exercícios parte 2\Exercícios parte 2\obj\Debug\Exercícios parte 2.csproj.AssemblyReference.cache
+C:\Users\PC GAMER\Desktop\Exercícios parte 2\Exercícios parte 2\obj\Debug\Exercícios parte 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC GAMER\Desktop\Exercícios parte 2\Exercícios parte 2\obj\Debug\Exercícios parte 2.csproj.CoreCompileInputs.cache
+C:\Users\PC GAMER\Desktop\Exercícios parte 2\Exercícios parte 2\obj\Debug\Exercícios parte 2.exe
+C:\Users\PC GAMER\Desktop\Exercícios parte 2\Exercícios parte 2\obj\Debug\Exercícios parte 2.pdb
