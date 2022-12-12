@@ -1,0 +1,8 @@
+C:\Users\PC GAMER\Desktop\Menus com while\Menus com while\bin\Debug\Menus com while.exe.config
+C:\Users\PC GAMER\Desktop\Menus com while\Menus com while\bin\Debug\Menus com while.exe
+C:\Users\PC GAMER\Desktop\Menus com while\Menus com while\bin\Debug\Menus com while.pdb
+C:\Users\PC GAMER\Desktop\Menus com while\Menus com while\obj\Debug\Menus com while.csproj.AssemblyReference.cache
+C:\Users\PC GAMER\Desktop\Menus com while\Menus com while\obj\Debug\Menus com while.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC GAMER\Desktop\Menus com while\Menus com while\obj\Debug\Menus com while.csproj.CoreCompileInputs.cache
+C:\Users\PC GAMER\Desktop\Menus com while\Menus com while\obj\Debug\Menus com while.exe
+C:\Users\PC GAMER\Desktop\Menus com while\Menus com while\obj\Debug\Menus com while.pdb
