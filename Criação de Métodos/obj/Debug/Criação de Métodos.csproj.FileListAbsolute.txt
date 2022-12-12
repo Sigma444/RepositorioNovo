@@ -1,0 +1,8 @@
+C:\Users\PC GAMER\Desktop\Criação de Métodos\Criação de Métodos\bin\Debug\Criação de Métodos.exe.config
+C:\Users\PC GAMER\Desktop\Criação de Métodos\Criação de Métodos\bin\Debug\Criação de Métodos.exe
+C:\Users\PC GAMER\Desktop\Criação de Métodos\Criação de Métodos\bin\Debug\Criação de Métodos.pdb
+C:\Users\PC GAMER\Desktop\Criação de Métodos\Criação de Métodos\obj\Debug\Criação de Métodos.csproj.AssemblyReference.cache
+C:\Users\PC GAMER\Desktop\Criação de Métodos\Criação de Métodos\obj\Debug\Criação de Métodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC GAMER\Desktop\Criação de Métodos\Criação de Métodos\obj\Debug\Criação de Métodos.csproj.CoreCompileInputs.cache
+C:\Users\PC GAMER\Desktop\Criação de Métodos\Criação de Métodos\obj\Debug\Criação de Métodos.exe
+C:\Users\PC GAMER\Desktop\Criação de Métodos\Criação de Métodos\obj\Debug\Criação de Métodos.pdb
