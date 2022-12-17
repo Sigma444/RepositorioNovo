@@ -1,0 +1,8 @@
+C:\Users\PC GAMER\Desktop\Projeto Cassino-Menus e Random\Projeto Cassino-Menus e Random\bin\Debug\Projeto Cassino-Menus e Random.exe.config
+C:\Users\PC GAMER\Desktop\Projeto Cassino-Menus e Random\Projeto Cassino-Menus e Random\bin\Debug\Projeto Cassino-Menus e Random.exe
+C:\Users\PC GAMER\Desktop\Projeto Cassino-Menus e Random\Projeto Cassino-Menus e Random\bin\Debug\Projeto Cassino-Menus e Random.pdb
+C:\Users\PC GAMER\Desktop\Projeto Cassino-Menus e Random\Projeto Cassino-Menus e Random\obj\Debug\Projeto Cassino-Menus e Random.csproj.AssemblyReference.cache
+C:\Users\PC GAMER\Desktop\Projeto Cassino-Menus e Random\Projeto Cassino-Menus e Random\obj\Debug\Projeto Cassino-Menus e Random.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC GAMER\Desktop\Projeto Cassino-Menus e Random\Projeto Cassino-Menus e Random\obj\Debug\Projeto Cassino-Menus e Random.csproj.CoreCompileInputs.cache
+C:\Users\PC GAMER\Desktop\Projeto Cassino-Menus e Random\Projeto Cassino-Menus e Random\obj\Debug\Projeto Cassino-Menus e Random.exe
+C:\Users\PC GAMER\Desktop\Projeto Cassino-Menus e Random\Projeto Cassino-Menus e Random\obj\Debug\Projeto Cassino-Menus e Random.pdb
