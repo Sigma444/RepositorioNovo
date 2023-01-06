@@ -1,0 +1,8 @@
+C:\Users\PC GAMER\Desktop\Arrays e arrays mano e multidimensionais\Arrays e arrays mano e multidimensionais\bin\Debug\Arrays e arrays mano e multidimensionais.exe.config
+C:\Users\PC GAMER\Desktop\Arrays e arrays mano e multidimensionais\Arrays e arrays mano e multidimensionais\bin\Debug\Arrays e arrays mano e multidimensionais.exe
+C:\Users\PC GAMER\Desktop\Arrays e arrays mano e multidimensionais\Arrays e arrays mano e multidimensionais\bin\Debug\Arrays e arrays mano e multidimensionais.pdb
+C:\Users\PC GAMER\Desktop\Arrays e arrays mano e multidimensionais\Arrays e arrays mano e multidimensionais\obj\Debug\Arrays e arrays mano e multidimensionais.csproj.AssemblyReference.cache
+C:\Users\PC GAMER\Desktop\Arrays e arrays mano e multidimensionais\Arrays e arrays mano e multidimensionais\obj\Debug\Arrays e arrays mano e multidimensionais.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC GAMER\Desktop\Arrays e arrays mano e multidimensionais\Arrays e arrays mano e multidimensionais\obj\Debug\Arrays e arrays mano e multidimensionais.csproj.CoreCompileInputs.cache
+C:\Users\PC GAMER\Desktop\Arrays e arrays mano e multidimensionais\Arrays e arrays mano e multidimensionais\obj\Debug\Arrays e arrays mano e multidimensionais.exe
+C:\Users\PC GAMER\Desktop\Arrays e arrays mano e multidimensionais\Arrays e arrays mano e multidimensionais\obj\Debug\Arrays e arrays mano e multidimensionais.pdb
