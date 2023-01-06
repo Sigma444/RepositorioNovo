@@ -1,0 +1,8 @@
+C:\Users\PC GAMER\Desktop\ex arrays\ex arrays\bin\Debug\ex arrays.exe.config
+C:\Users\PC GAMER\Desktop\ex arrays\ex arrays\bin\Debug\ex arrays.exe
+C:\Users\PC GAMER\Desktop\ex arrays\ex arrays\bin\Debug\ex arrays.pdb
+C:\Users\PC GAMER\Desktop\ex arrays\ex arrays\obj\Debug\ex arrays.csproj.AssemblyReference.cache
+C:\Users\PC GAMER\Desktop\ex arrays\ex arrays\obj\Debug\ex arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC GAMER\Desktop\ex arrays\ex arrays\obj\Debug\ex arrays.csproj.CoreCompileInputs.cache
+C:\Users\PC GAMER\Desktop\ex arrays\ex arrays\obj\Debug\ex arrays.exe
+C:\Users\PC GAMER\Desktop\ex arrays\ex arrays\obj\Debug\ex arrays.pdb
