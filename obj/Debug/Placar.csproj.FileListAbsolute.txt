@@ -1,0 +1,11 @@
+C:\Users\PC GAMER\Desktop\Placar\Placar\bin\Debug\Placar.exe.config
+C:\Users\PC GAMER\Desktop\Placar\Placar\bin\Debug\Placar.exe
+C:\Users\PC GAMER\Desktop\Placar\Placar\bin\Debug\Placar.pdb
+C:\Users\PC GAMER\Desktop\Placar\Placar\obj\Debug\Placar.csproj.AssemblyReference.cache
+C:\Users\PC GAMER\Desktop\Placar\Placar\obj\Debug\Placar.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC GAMER\Desktop\Placar\Placar\obj\Debug\Placar.Form1.resources
+C:\Users\PC GAMER\Desktop\Placar\Placar\obj\Debug\Placar.Properties.Resources.resources
+C:\Users\PC GAMER\Desktop\Placar\Placar\obj\Debug\Placar.csproj.GenerateResource.cache
+C:\Users\PC GAMER\Desktop\Placar\Placar\obj\Debug\Placar.csproj.CoreCompileInputs.cache
+C:\Users\PC GAMER\Desktop\Placar\Placar\obj\Debug\Placar.exe
+C:\Users\PC GAMER\Desktop\Placar\Placar\obj\Debug\Placar.pdb
